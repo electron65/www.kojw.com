@@ -14,6 +14,4 @@ subtitle: electron65 / Undergraduate student
 ### Welcome
 Welcome to kojw. This is my personal Website! Hello, I'm electron65. I am a undergraduate student majoring electronical engineering. I first started blogging after a large project with my friends. We made a simple graphic card and sound card using FPGA and Arduino. 
 ### Notice!
-* On going Project: Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors, 2023.09 - 2023.12, Term Project, KwangWoon University
-* Fast Fourier Transform (FFT) Implementation with Software and Hardware, 2023.09 - 2023.12, Pre-capstone Project, KwangWoon University
-
+* On going Project: Fast Fourier Transform (FFT) Implementation with Software and Hardware, 2023.09 - 2023.12, Pre-capstone Project, KwangWoon University
