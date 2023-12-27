@@ -6,10 +6,10 @@ subtitle: Here is what I have done so far...
 ### Projects
 
 **Ongoing Projects**
+* [Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors, 2023.09 - 2023.12, Term Project, KwangWoon University]()
 * [Fast Fourier Transform (FFT) Implementation with Software and Hardware, 2023.09 - 2023.12, Pre-capstone Project, KwangWoon University]()
 
 **Completed Projects**
-* [Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors, 2023.09 - 2023.12, Term Project, KwangWoon University]()
 * [Analog Computer, 2022.03 - 2022.06, 전자회로실험1 Term Project, KwangWoon University]()
 * [Development of a Simple Graphics Card and Sound Card, using DE1 - SoC FPGA Board, 2019.09 - 2019.12, 기초전자실험 Term Project, KwangWoon University]()
 * [Development of a Calculator using C++ and MFC, 2019.03 - 2019.06, 소프트웨어설계 Term Project, KwangWoon University]()
@@ -23,11 +23,6 @@ subtitle: Here is what I have done so far...
 ---
 
 ### Project Details
-### Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors
-
-![PCM Boards](/assets/images/mul.png)
-
-
 ### Analog Computer
 
 ![Multiplication Module](/assets/images/mul.png)
