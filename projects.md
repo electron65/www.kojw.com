@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+cover-img: "/assets/images/mul.png"
 subtitle: Here is what I have done so far...
 ---
 ### Projects
