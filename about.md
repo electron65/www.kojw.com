@@ -6,13 +6,14 @@ subtitle: I am...
 
 ### electron65
 Hello, I'm electron65. I am a undergraduate student majoring electronical engineering. Feel free to contact!
+---
 
 ### Contact
 Please feel free to contact!
 * Email : jongwanko@gmail.com
 * Email : jongwanko@kw.ac.kr
 
-
+---
 ### Website History
 2023/12/27 ~ 2023/12/28
 * Updated Website.
