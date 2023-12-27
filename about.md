@@ -6,8 +6,8 @@ subtitle: I am...
 
 ### electron65
 Hello, I'm electron65. I am a undergraduate student majoring electronical engineering. Feel free to contact!
----
 
+---
 ### Contact
 Please feel free to contact!
 * Email : jongwanko@gmail.com
@@ -36,7 +36,7 @@ Please feel free to contact!
 * First made personal website using HTML and CSS.
 * Hosted Website on Google Cloud Server.
 * Purchased cppcompiler.com Domain.
-
+---
 ### Website Archive
 * [First Website](https://electron65.github.io/cppcompiler-first-website/)
 * [Second Website](https://electron65.github.io/cppcompiler-second-website/)
