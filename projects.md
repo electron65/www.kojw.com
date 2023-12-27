@@ -53,7 +53,7 @@ subtitle: Here is what I have done so far...
 
 * Main Function: By designing Operational Amplifiers, Comparators, ADC and DAC we understand the fundamentals of data conversion and basic circuit design.
 
-* Detail: We have designed a Operational Ampilifer and a Comparator using discrete components to understand the underlying concepts of circuit design. Also we have implemented a flash ADC and a Delta Sigma ADC to understand how data is converted for future reference. We have also covered DAC to fully understand how data is converted from analog to digital form. In this process we have also experimented the use of commercial grade ADC and DAC via sound card on computers, which are excellent examples.
+* Detail: We have designed a Operational Ampilifer and a Comparator using discrete components to understand the underlying concepts of circuit design. Also we have implemented a flash ADC and a Delta Sigma ADC to understand how data is converted for future reference. We have also covered DAC to fully understand how data is converted from digital to analog form. In this process we have also experimented the use of commercial grade ADC and DAC via sound card on computers, which are excellent examples.
 
 
 ### Analog Computer
