@@ -2,6 +2,7 @@
 layout: page
 title: About
 subtitle: I am...
+cover-img: "/assets/images/mul.png"
 ---
 
 ### electron65
@@ -36,6 +37,7 @@ Please feel free to contact!
 * First made personal website using HTML and CSS.
 * Hosted Website on Google Cloud Server.
 * Purchased cppcompiler.com Domain.
+  
 ---
 ### Website Archive
 * [First Website](https://electron65.github.io/cppcompiler-first-website/)
