@@ -38,6 +38,6 @@ Please feel free to contact!
 * Purchased cppcompiler.com Domain.
 
 ### Website Archive
-* [First Website](https://www.kojw.com/cppcompiler-first-website/Log.html)
-* [Second Website](https://www.kojw.com/cppcompiler-second-website/)
-* [Third Website](https://www.kojw.com/cppcompiler-third/about.html)
+* [First Website](https://electron65.github.io/cppcompiler-first-website/)
+* [Second Website](https://electron65.github.io/cppcompiler-second-website/)
+* [Third Website](https://electron65.github.io/cppcompiler-third/)
