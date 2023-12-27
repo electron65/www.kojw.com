@@ -1,16 +1,45 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: I am...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### electron65
+Hello, I'm electron65. I am a undergraduate student majoring electronical engineering. Feel free to contact!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### My story
+### Contact
+Please feel free to contact!
+* Email : jongwanko@gmail.com
+* Email : jongwanko@kw.ac.kr
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+### Website History
+
+2020/2/25 ~ 2020/2/27
+* First made personal website using HTML and CSS.
+* Hosted Website on Google Cloud Server.
+* Purchased cppcompiler.com Domain.
+
+2020/5/12 ~ 2020/5/19
+* Rebuilt the website using HTML and CSS.
+* Added a letter page.
+* Hosted Website on Github.
+
+2020/5/20 ~ 2020/5/23
+* First modified personal website using Jekyll Themes.
+* Hosted Website on Github.
+
+2022/1/23 ~ 2022/1/30
+* Renewed personal website using Jekyll Themes.
+* Hosted Website on Github.
+* Changed domain to kojw.com.
+
+2023/12/27 ~ 2023/12/28
+* Updated Website.
+
+### Website Archive
+* [First Website](https://www.kojw.com/cppcompiler-first-website/Log.html)
+* [Second Website](https://www.kojw.com/cppcompiler-second-website/)
+* [Third Website](https://www.kojw.com/cppcompiler-third/about.html)
