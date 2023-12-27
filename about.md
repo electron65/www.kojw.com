@@ -6,7 +6,7 @@ cover-img: "/assets/images/about.jpg"
 ---
 
 ### electron65
-Hello, I'm electron65. I am a undergraduate student majoring electronical engineering. 
+Hello, I'm electron65. I am a undergraduate student majoring electronics and communications engineering. 
 I am looking for a job related to ASIC Design.
 Feel free to contact!
 
