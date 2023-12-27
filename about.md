@@ -2,7 +2,7 @@
 layout: page
 title: About
 subtitle: I am...
-cover-img: "/assets/images/mul.png"
+cover-img: "/assets/images/about.jpg"
 ---
 
 ### electron65
