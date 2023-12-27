@@ -1,6 +1,7 @@
 ---
 layout: page
 title: kojw
+cover-img: "/assets/img/magic.gif"
 subtitle: electron65 / Undergraduate student
 ---
 
