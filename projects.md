@@ -38,10 +38,15 @@ subtitle: Here is what I have done so far...
 > Flash ADC, DAC, Operational Amplifier, Comparator, Pre-Amplifier, Audio Amplifier PCB Artwork Final Result
 
 
-![Delta Sigma ADC](/assets/images/mul_f.png)
+![Delta Sigma ADC](/assets/images/pcb2.png)
 
 
 > Delta Sigma ADC Final Result
+
+![Final Result of the entire project](/assets/images/pcb4.png)
+
+
+> Final Result of the entire project
 
 
 * Project Name: Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors
