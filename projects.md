@@ -32,7 +32,7 @@ subtitle: Here is what I have done so far...
 > Flash ADC, DAC, Operational Amplifier, Comparator, Pre-Amplifier, Audio Amplifier PCB Artwork
 
 
-![Flash ADC, DAC, Operational Amplifier, Comparator, Pre-Amplifier, Audio Amplifier PCB Artwork Final Result](/assets/images/pcb1.png)
+![Flash ADC, DAC, Operational Amplifier, Comparator, Pre-Amplifier, Audio Amplifier PCB Artwork Final Result](/assets/images/pcb1.jpg)
 
 
 > Flash ADC, DAC, Operational Amplifier, Comparator, Pre-Amplifier, Audio Amplifier PCB Artwork Final Result
@@ -43,7 +43,7 @@ subtitle: Here is what I have done so far...
 
 > Delta Sigma ADC Final Result
 
-![Final Result of the entire project](/assets/images/pcb4.png)
+![Final Result of the entire project](/assets/images/pcb4.jpg)
 
 
 > Final Result of the entire project
