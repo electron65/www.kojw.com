@@ -1,7 +1,7 @@
 ---
 layout: page
 title: kojw
-cover-img: "/assets/image/pcb.png"
+cover-img: "/assets/images/pcb.png"
 subtitle: electron65 / Undergraduate student
 ---
 
