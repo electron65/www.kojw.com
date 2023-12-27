@@ -26,29 +26,29 @@ subtitle: Here is what I have done so far...
 ### Project Details
 ### Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors
 
-![Multiplication Module](/assets/images/mul.png)
+![Flash ADC, DAC, Operational Amplifier, Comparator, Pre-Amplifier, Audio Amplifier PCB Artwork](/assets/images/pcb.png)
 
 
-> Multiplication Module
+> Flash ADC, DAC, Operational Amplifier, Comparator, Pre-Amplifier, Audio Amplifier PCB Artwork
 
 
-![DUT](/assets/images/mul2.png)
+![Flash ADC, DAC, Operational Amplifier, Comparator, Pre-Amplifier, Audio Amplifier PCB Artwork Final Result](/assets/images/pcb1.png)
 
 
-> Multiplication Module Under Test
+> Flash ADC, DAC, Operational Amplifier, Comparator, Pre-Amplifier, Audio Amplifier PCB Artwork Final Result
 
 
-![Analog Computer Final Product](/assets/images/mul_f.png)
+![Delta Sigma ADC](/assets/images/mul_f.png)
 
 
-> Analog Computer Final Product
+> Delta Sigma ADC Final Result
 
 
-* Project Name: Analog Computer
+* Project Name: Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors
 
-* Main Function: Operates Arithmetic operations using only analog circuits.
+* Main Function: By designing Operational Amplifiers, Comparators, ADC and DAC we understand the fundamentals of data conversion and basic circuit design.
 
-* Detail: This device is designed to operate addition, subtraction, multiplication and division. The operation can withstand up to 12 Volts. This project was done to understand the basics of Operational amplifiers and how computation was done before the digital age emerged.
+* Detail: We have designed a Operational Ampilifer and a Comparator using discrete components to understand the underlying concepts of circuit design. Also we have implemented a flash ADC and a Delta Sigma ADC to understand how data is converted for future reference. We have also covered DAC to fully understand how data is converted from analog to digital form. In this process we have also experimented the use of commercial grade ADC and DAC via sound card on computers, which are excellent examples.
 
 
 ### Analog Computer
