@@ -21,7 +21,7 @@ author: electron65
 
 navbar-links:
   Home: "index"
-  About: "about"
+  About: "aboutme"
   Projects: "projects"
   Blog: "https://blog.kojw.com"
   Github: "https://github.com/electron65"
