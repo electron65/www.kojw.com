@@ -10,6 +10,7 @@ subtitle: Here is what I have done so far...
 * [Fast Fourier Transform (FFT) Implementation with Software and Hardware, 2023.09 - 2023.12, Capstone Project, KwangWoon University]()
 
 **Completed Projects**
+* [UART Transmitter and Reciever IP Development, 2023.09 - 2023.12, 광운튜터링, KwangWoon University]()
 * [Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors, 2023.09 - 2023.12, 전자회로실험2 Term Project, KwangWoon University]()
 * [Analog Computer, 2022.03 - 2022.06, 전자회로실험1 Term Project, KwangWoon University]()
 * [Development of a Simple Graphics Card and Sound Card, using DE1 - SoC FPGA Board, 2019.09 - 2019.12, 기초전자실험 Term Project, KwangWoon University]()
@@ -24,6 +25,47 @@ subtitle: Here is what I have done so far...
 ---
 
 ### Project Details
+### UART Transmitter and Reciever IP Development for Arduino and FPGA Interface
+
+
+![UART Transmitter and Reciever IP Development Block Diagram](/assets/images/block.png)
+
+
+> UART Transmitter and Reciever IP Block Diagram
+
+
+![UART Transmitter and Reciever IP TOP file simulation Result](/assets/images/top.png)
+
+
+> UART Transmitter and Reciever IP TOP file simulation Result
+
+
+![UART Transmitter and Reciever IP Development Block Diagram Result](/assets/images/res.png)
+
+
+> UART Transmitter and Reciever IP Development Summary of Synthesis
+
+
+![UART Transmitter and Reciever IP Development Final Result](/assets/images/res1.png)
+
+
+> UART Transmitter and Reciever IP Development Oscilloscope Trigger Result
+
+
+![Final Result of the entire project](/assets/images/res2.png)
+
+
+> Integration of the entire project
+
+
+* Project Name: UART Transmitter and Reciever IP Development for Arduino and FPGA Interface
+
+* Main Function: An UART communication interface between FPGA and Arduino.
+
+* Detail: We have designed a UART communication interface for FPGA and Arduino interface. Before designing the interface we must first understand the proctocol from the arduino side. We make a simple chating program and use an oscilloscope to see the protocol. Then we develop the IP from reciever to Transmitter step by step. After numerous testbenches we integrate the system into a top file, synthesis and again test whether the UART is working well by using a oscilloscope.However we must note that since the voltage system is different between Arduino(5V) and FPGA(3.3V) a voltage shifter is needed.
+
+
+
 ### Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors
 
 ![Flash ADC, DAC, Operational Amplifier, Comparator, Pre-Amplifier, Audio Amplifier PCB Artwork](/assets/images/pcb.png)
