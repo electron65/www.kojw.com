@@ -11,6 +11,12 @@ I am looking for a job related to ASIC Design.
 Feel free to contact!
 
 ---
+DS1UPY QRZ Log
+
+<iframe align="top" frameborder="0" height="500" scrolling="yes" src="https://logbook.qrz.com/lbstat/DS1UPY/" width="640"></iframe>
+
+
+---
 ### Contact
 Please feel free to contact!
 * Email : jongwanko@gmail.com
