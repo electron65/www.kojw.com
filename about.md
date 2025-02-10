@@ -7,14 +7,8 @@ cover-img: "/assets/images/about.jpg"
 
 ### electron65
 Hello, I'm electron65. I am a undergraduate student majoring electronics and communications engineering. 
-I am looking for a job related to ASIC Design.
+ANy Questions?
 Feel free to contact!
-
----
-### DS1UPY QRZ Log
-
-<iframe align="top" frameborder="0" height="500" scrolling="yes" src="https://logbook.qrz.com/lbstat/DS1UPY/" width="640"></iframe>
-
 
 ---
 ### Contact
@@ -24,8 +18,9 @@ Please feel free to contact!
 
 ---
 ### Website History
-2023/12/27 ~ 2023/12/28
+2023/12/27 ~ 2025/01/25
 * Updated Website.
+* Minor changes on projects page.
 
 2022/1/23 ~ 2022/1/30
 * Renewed personal website using Jekyll Themes.
