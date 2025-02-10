@@ -17,9 +17,9 @@ navbar-links:
   Home: "index"
   About: "about"
   Projects: "projects"
-  Blog: "https://blog.kojw.com"
+ # Blog: "https://blog.kojw.com"
   Github: "https://github.com/electron65"
-  DS1UPY: "https://www.qrz.com/db/DS1UPY"
+#  DS1UPY: "https://www.qrz.com/db/DS1UPY"
 
   #Sites:
    # - LAB: "https://lab.kojw.com"
