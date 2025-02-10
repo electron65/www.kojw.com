@@ -10,7 +10,7 @@ subtitle: Here is what I have done so far...
 
 
 **Completed Projects**
-* [Fast Fourier Transform (FFT) Implementation with Software and Hardware, 2023.09 - 2023.12, Capstone Project, KwangWoon University]()
+* [Fast Fourier Transform (FFT) Implementation with Software and Hardware, 2023.09 - 2024.06, Capstone Project, KwangWoon University]()
 * [UART Transmitter and Reciever IP Development, 2023.09 - 2023.12, 광운튜터링, KwangWoon University]()
 * [Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors, 2023.09 - 2023.12, 전자회로실험2 Term Project, KwangWoon University]()
 * [Analog Computer, 2022.03 - 2022.06, 전자회로실험1 Term Project, KwangWoon University]()
