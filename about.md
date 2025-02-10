@@ -14,7 +14,6 @@ Feel free to contact!
 ### Contact
 Please feel free to contact!
 * Email : jongwanko@gmail.com
-* Email : jongwanko@kw.ac.kr
 
 ---
 ### Website History
