@@ -46,7 +46,7 @@ subtitle: Here is what I have done so far...
 > VGA Memory Mapping
 
 
-![Final Result of the entire project](/assets/images/sa_res.png)
+![Final Result of the entire project](/assets/images/sa_result.png)
 
 
 > Spectrum Analyzer Under Test! (4Vp-p Sine wave @100Khz)
