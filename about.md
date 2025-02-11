@@ -17,7 +17,7 @@ Please feel free to contact!
 
 ---
 ### Website History
-2023/12/27 ~ 2025/01/25
+2023/12/27 ~ 2025/02/05
 * Updated Website.
 * Minor changes on projects page.
 
