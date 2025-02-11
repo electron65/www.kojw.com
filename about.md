@@ -7,7 +7,7 @@ cover-img: "/assets/images/about.jpg"
 
 ### electron65
 Hello, I'm electron65. I am a undergraduate student majoring electronics and communications engineering. 
-ANy Questions?
+Any Questions?
 Feel free to contact!
 
 ---
