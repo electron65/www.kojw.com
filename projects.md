@@ -26,6 +26,41 @@ subtitle: Here is what I have done so far...
 ---
 
 ### Project Details
+### Fast Fourier Transform (FFT) Implementation with Software and Hardware
+
+
+![Spectrum Analyzer IP Development Block Diagram](/assets/images/sa_block.png)
+
+
+> Spectrum Analyzer IP Development Block Diagram
+
+
+![Top Sysnthesis](/assets/images/sa_top.png)
+
+
+> Top Sysnthesis
+
+![VGA Memory Mapping](/assets/images/sa_mem.png)
+
+
+> VGA Memory Mapping
+
+
+![Final Result of the entire project](/assets/images/sa_res.png)
+
+
+> Spectrum Analyzer Under Test! (4Vp-p Sine wave @100Khz)
+
+
+
+* Project Name: Fast Fourier Transform (FFT) Implementation with Software and Hardware
+
+* Main Function: An Spectrum Analyzer using FPGA SoC Board.
+
+* Detail: We have made a very simple spectrum analyzer using the DE1-SoC Board. This project starts from sampling signals from the function generator. The signal is sampled using the LTC2308 chip on the board. We can sample up to 250kHz(Sampling Rate: 500kHz). The digital signal is then processed through the FFT Module. This module will input real values(Constraints :No modulated signals input) and will return a magnitude and frequency. This information will be printed via VGA Memory, which is controlled by the VGA Controller. The controller will case each magnitude and freqeuncy to a given slot and will update the screen by page (640x480 @60hz Display). 
+  
+
+
 ### UART Transmitter and Reciever IP Development for Arduino and FPGA Interface
 
 
