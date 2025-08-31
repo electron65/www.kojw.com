@@ -10,6 +10,8 @@ subtitle: Here is what I have done so far...
 
 
 **Completed Projects**
+* [Stopwatch and Timer, 2025.05 - 2025.06, ARM System Programming, 대한상공회의소 서울기술교육센터]()
+* [DOOM : C Slayer, 2025.03 - 2025.05, ARM System Programming, 대한상공회의소 서울기술교육센터]()
 * [Fast Fourier Transform (FFT) Implementation with Software and Hardware, 2023.09 - 2024.06, Capstone Project, KwangWoon University]()
 * [UART Transmitter and Reciever IP Development, 2023.09 - 2023.12, 광운튜터링, KwangWoon University]()
 * [Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors, 2023.09 - 2023.12, 전자회로실험2 Term Project, KwangWoon University]()
@@ -26,6 +28,27 @@ subtitle: Here is what I have done so far...
 ---
 
 ### Project Details
+### System Programming on a ARM Cortex-M3 Development Board
+
+
+![Game Process and File Structure](/assets/kcci/c_pjt_game_image.png)
+
+
+> Game Process and File Structure
+
+
+![UART Commands for the game](/assets/kcci/cmd.png)
+
+
+> UART Commands for the game (God Mode)
+
+
+* Project Name: DOOM : C Slayer
+
+* Main Function: 2-D Game made with C programming on a ARM Cortex-M3 Development Board.
+
+* Detail: When you first turn on the device, the game will ask to press switch 0 for to start the game. You then briefly read the instrucions and again press switch 0 to selec the difficulty of the game. You can select the difficulty by entering the numbers 1, 2 and 3 respectively EASY, NORMAL and HARD via UART on the serial command line. The game is consisted with 5 stages and addition with the boss stage. The objective of the game is to fight all enemy mobs and the C boss at the end to conquer the C Programming language. If you win all 6 stages you win the game. There are 3 types of mobs, the normal ememy with 2 HP, fast type enemy with 1 hp and the slow but heavy tank mob with 4 hp. By every 10 points you can use a perk where 5 shots could be fired on all 4 sides simultaneously.
+
 ### Fast Fourier Transform (FFT) Implementation with Software and Hardware
 
 
@@ -235,3 +258,4 @@ Detail: Outputs signals through a monitor and a speaker from an Arduino Uno or a
 * Detail: Bluetooth modules that are installed in everyday items or facilities such as phones, hospitals or even traffiic lights can communicate with the challenged, especially through the cane. The user first makes a interaction (ex. taps the button 2 times) with the cane. The corresponding reponse from the challenged will be sent to the current connected device (ex. traffic light). The device will then respond with an answer sent back to the cane. The respond then will be read in voice, giving a possibly current location, direction or other cases which correspond to the users demand.
 
 ---
+
