@@ -127,7 +127,7 @@ subtitle: Here is what I have done so far...
 
 > Sensor DHT11 FSM 
 
-![Smart Watch FPGA](/assets/kcci/clock_contect.png)  
+![Smart Watch FPGA](/assets/kcci/clock_connect.png)  
 
 > Smart Clock Connection 
 
@@ -370,6 +370,7 @@ Detail: Outputs signals through a monitor and a speaker from an Arduino Uno or a
 
 ---
 ["Top"]()
+
 
 
 
