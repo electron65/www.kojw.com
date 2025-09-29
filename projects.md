@@ -32,6 +32,93 @@ subtitle: Here is what I have done so far...
 ---
 
 ### Project Details
+
+### FPGA Based Real-Time Image Processing Photo Booth  
+
+![FPGA Photo Booth](/assets/kcci/fpga_photo_booth.png)  
+
+> FPGA Based Real-Time Image Processing Photo Booth  
+
+![FPGA Photo Booth Filters](/assets/kcci/fpga_filters.png)  
+
+> Filters and Camera Interface  
+
+* Project Name: FPGA Based Real-Time Image Processing Photo Booth  
+
+* Main Function: Real-time image processing photo booth implemented on FPGA.  
+
+* Detail: Developed an FPGA-based photo booth capable of real-time image processing using OV7670 camera input. Designed and verified multiple filters (Mirror, Gaussian, Ghost, Graduation) and implemented a camera interface and UART/button control to switch between effects. Added features to save images and select different filters dynamically.  
+
+
+
+### RV32I RISC-V FPGA MCU & APB Bus Design Verification  
+
+![RISC-V APB MCU](/assets/kcci/riscv_apb.png)  
+
+> RISC-V FPGA MCU & APB Bus Design Verification  
+
+![RISC-V SoC](/assets/kcci/riscv_soc.png)  
+
+> SoC Architecture and Peripheral Control  
+
+* Project Name: RV32I-based RISC-V FPGA MCU & APB Bus Design Verification  
+
+* Main Function: Designed and verified an RV32I RISC-V CPU with AMBA-APB bus on FPGA.  
+
+* Detail: Implemented a single-cycle and multi-cycle RV32I CPU in SystemVerilog. Created AMBA-APB peripherals (GPIO, FND) and wrote RV32I Assembly test programs. Verified integration and functionality with Verdi and Vivado, demonstrating SoC-level peripheral control on FPGA.  
+
+
+### 512–Point radix FFT Design & Verification  
+
+![FFT 512](/assets/kcci/fft512.png)  
+
+> 512–Point radix FFT Design & Verification  
+
+![FFT Pipeline](/assets/kcci/fft_pipeline.png)  
+
+> FFT Pipeline Implementation  
+
+* Project Name: 512–Point radix FFT Design & Verification  
+
+* Main Function: Designed and verified a 512-point radix FFT IP core.  
+
+* Detail: Used SystemVerilog to implement a 512-point FFT pipeline for high-speed signal processing. Performed simulation and verification with Synopsys Verdi and Xilinx Vivado. Acted as team leader for module0 and top-level integration, verifying timing and correctness using generated test vectors.  
+
+
+### YOLOv5 Bird Strike Detection & Alert System  
+
+![YOLOv5 Bird Strike](/assets/kcci/yolov5_birdstrike.png)  
+
+> YOLOv5 Bird Strike Detection & Alert System  
+
+![YOLOv5 Process](/assets/kcci/yolov5_process.png)  
+
+> Real-time Detection and Alert  
+
+* Project Name: YOLOv5 Bird Strike Detection & Alert System  
+
+* Main Function: Developed an AI-based bird strike detection and alert system using YOLOv5.  
+
+* Detail: Built a Raspberry Pi + camera system running Python and YOLOv5 to detect birds in real time near airports. Implemented server-client communication to send alerts and display results. Verified detection accuracy with various video sources.  
+
+
+### Stopwatch and Timer on FPGA  
+
+![Stopwatch Timer](/assets/kcci/stopwatch_timer.png)  
+
+> Stopwatch and Timer on FPGA  
+
+![Smart Watch FPGA](/assets/kcci/smartwatch_fpga.png)  
+
+> Smart Watch & Sensor Integration  
+
+* Project Name: Stopwatch and Timer on FPGA  
+
+* Main Function: Implemented a Watch-Stopwatch/Timer system using Xilinx FPGA and Vivado.  
+
+* Detail: Designed a Watch-Stopwatch with UART, ultrasonic/temperature sensors, and integrated them into a smart watch system on FPGA. Verified timing accuracy, sensor interfacing, and UART communication.  
+
+
 ### System Programming on a ARM Cortex-M3 Development Board
 
 
@@ -262,6 +349,7 @@ Detail: Outputs signals through a monitor and a speaker from an Arduino Uno or a
 * Detail: Bluetooth modules that are installed in everyday items or facilities such as phones, hospitals or even traffiic lights can communicate with the challenged, especially through the cane. The user first makes a interaction (ex. taps the button 2 times) with the cane. The corresponding reponse from the challenged will be sent to the current connected device (ex. traffic light). The device will then respond with an answer sent back to the cane. The respond then will be read in voice, giving a possibly current location, direction or other cases which correspond to the users demand.
 
 ---
+
 
 
 
