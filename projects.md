@@ -7,15 +7,14 @@ subtitle: Here is what I have done so far...
 ### Projects
 
 **Ongoing Projects**
-
+* [Synopsys IC Compiler – Physical Design (Place & Route), 2025.10.01 - 2025.10.28, Physical Design, 대한상공회의소 서울기술교육센터]()
 
 **Completed Projects**
-* [Stopwatch and Timer, 2025.05 - 2025.06, ARM System Programming, 대한상공회의소 서울기술교육센터]()  
-* [FPGA Based Real-Time Image Processing Photo Booth, 2025.09.08 - 2025.09.30, ARM System Programming, 대한상공회의소 서울기술교육센터]()  
-* [RV32I 기반 RISC-V FPGA MCU 및 APB 버스 설계 검증, 2025.08.06 - 2025.09.05, ARM System Programming, 대한상공회의소 서울기술교육센터]()  
-* [512 – Point radix FFT 설계 및 검증, 2025.07.15 - 2025.08.05, ARM System Programming, 대한상공회의소 서울기술교육센터]()  
-* [YOLOv5 기반 공항 조류(Bird Strike) 탐지·경보 시스템, 2025.06.23 - 2025.07.11, ARM System Programming, 대한상공회의소 서울기술교육센터]()
-* [Stopwatch and Timer, 2025.05 - 2025.06, ARM System Programming, 대한상공회의소 서울기술교육센터]()
+* [FPGA Based Real-Time Image Processing Photo Booth, 2025.09.08 - 2025.09.30, Final Project, 대한상공회의소 서울기술교육센터]()  
+* [RV32I 기반 RISC-V FPGA MCU 및 APB 버스 설계 검증, 2025.08.06 - 2025.09.05, SoC System on a Chip , 대한상공회의소 서울기술교육센터]()  
+* [512 – Point radix FFT 설계 및 검증, 2025.07.15 - 2025.08.05, ASIC Front End Design, 대한상공회의소 서울기술교육센터]()  
+* [YOLOv5 기반 공항 조류(Bird Strike) 탐지·경보 시스템, 2025.06.23 - 2025.07.11, AI and Algorithm, 대한상공회의소 서울기술교육센터]()
+* [Stopwatch and Timer, 2025.05 - 2025.06, System Semiconductor Design, 대한상공회의소 서울기술교육센터]()
 * [DOOM : C Slayer, 2025.03 - 2025.05, ARM System Programming, 대한상공회의소 서울기술교육센터]()
 * [Fast Fourier Transform (FFT) Implementation with Software and Hardware, 2023.09 - 2024.06, Capstone Project, KwangWoon University]()
 * [UART Transmitter and Reciever IP Development, 2023.09 - 2023.12, 광운튜터링, KwangWoon University]()
@@ -263,5 +262,6 @@ Detail: Outputs signals through a monitor and a speaker from an Arduino Uno or a
 * Detail: Bluetooth modules that are installed in everyday items or facilities such as phones, hospitals or even traffiic lights can communicate with the challenged, especially through the cane. The user first makes a interaction (ex. taps the button 2 times) with the cane. The corresponding reponse from the challenged will be sent to the current connected device (ex. traffic light). The device will then respond with an answer sent back to the cane. The respond then will be read in voice, giving a possibly current location, direction or other cases which correspond to the users demand.
 
 ---
+
 
 
