@@ -17,7 +17,7 @@ subtitle: Here is what I have done so far...
 * [Stopwatch and Timer, 2025.05 - 2025.06, System Semiconductor Design, 대한상공회의소 서울기술교육센터](/assets/kcci/clock.pdf)
 * [DOOM : C Slayer, 2025.03 - 2025.05, ARM System Programming, 대한상공회의소 서울기술교육센터](/assets/kcci/c_game.pdf)
 * [Fast Fourier Transform (FFT) Implementation with Software and Hardware, 2023.09 - 2024.06, Capstone Project, KwangWoon University](/assets/kcci/caps.pdf)
-* [UART Transmitter and Reciever IP Development, 2023.09 - 2023.12, 광운튜터링, KwangWoon University]()
+* [UART Transmitter and Reciever IP Development, 2023.09 - 2023.12, 광운튜터링, KwangWoon University](/assets/kcci/tutor.pdf)
 * [Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors, 2023.09 - 2023.12, 전자회로실험2 Term Project, KwangWoon University](/assets/kcci/adc.pdf)
 * [Analog Computer, 2022.03 - 2022.06, 전자회로실험1 Term Project, KwangWoon University](/assets/kcci/com.pdf)
 * [Development of a Simple Graphics Card and Sound Card, using DE1 - SoC FPGA Board, 2019.09 - 2019.12, 기초전자실험 Term Project, KwangWoon University](/assets/kcci/graph.pdf)
@@ -370,6 +370,7 @@ Detail: Outputs signals through a monitor and a speaker from an Arduino Uno or a
 
 ---
 ["Top"]()
+
 
 
 
