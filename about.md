@@ -7,7 +7,7 @@ cover-img: "/assets/images/about.jpg"
 
 ### electron65
 
-<img src="/assets/other_image/kojw.jpg" alt="kojw! Hello!" width="400" height="500">
+<img src="/assets/other_image/kojw.jpg" alt="kojw! Hello!" width="500" height="500">
 
 Hello, I'm electron65. I am a undergraduate student majoring electronics and communications engineering. 
 Any Questions?
