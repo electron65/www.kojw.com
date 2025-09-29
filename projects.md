@@ -35,13 +35,13 @@ subtitle: Here is what I have done so far...
 
 ### FPGA Based Real-Time Image Processing Photo Booth  
 
-![FPGA Photo Booth](/assets/kcci/fpga_photo_booth.png)  
+![FPGA Photo Booth](/assets/kcci/pho_block.png)  
 
-> FPGA Based Real-Time Image Processing Photo Booth  
+> FPGA Based Real-Time Image Processing Photo Booth Block Diagram
 
-![FPGA Photo Booth Filters](/assets/kcci/fpga_filters.png)  
+![FPGA Photo Booth Filters](/assets/kcci/pho_fsm.png)  
 
-> Filters and Camera Interface  
+> OV7670 Camera Interface FSM
 
 * Project Name: FPGA Based Real-Time Image Processing Photo Booth  
 
@@ -53,13 +53,21 @@ subtitle: Here is what I have done so far...
 
 ### RV32I RISC-V FPGA MCU & APB Bus Design Verification  
 
-![RISC-V APB MCU](/assets/kcci/riscv_apb.png)  
+![RISC-V APB MCU](/assets/kcci/rv_block.png)  
 
-> RISC-V FPGA MCU & APB Bus Design Verification  
+> RV32I RISC-V MCU Block Diagram
 
-![RISC-V SoC](/assets/kcci/riscv_soc.png)  
+![RISC-V SoC](/assets/kcci/rv_fsm.png)  
 
-> SoC Architecture and Peripheral Control  
+> RV32I RISC-V MCU FSM
+
+![RISC-V SoC](/assets/kcci/rv_bus.png)  
+
+> APB Bus Block Diagram
+
+![RISC-V SoC](/assets/kcci/rv_work.png)  
+
+> Counter and LED C Program Working
 
 * Project Name: RV32I-based RISC-V FPGA MCU & APB Bus Design Verification  
 
@@ -70,13 +78,17 @@ subtitle: Here is what I have done so far...
 
 ### 512–Point radix FFT Design & Verification  
 
-![FFT 512](/assets/kcci/fft512.png)  
+![FFT 512](/assets/kcci/fft_block.png)  
 
-> 512–Point radix FFT Design & Verification  
+> 512–Point radix FFT Design Block Diagram
 
-![FFT Pipeline](/assets/kcci/fft_pipeline.png)  
+![FFT Pipeline](/assets/kcci/fft_block2.png)  
 
-> FFT Pipeline Implementation  
+> FFT FPGA Block Diagram
+
+![FFT Pipeline](/assets/kcci/fft_rea.png)  
+
+> FFT FPGA Block Resource Reduced
 
 * Project Name: 512–Point radix FFT Design & Verification  
 
@@ -87,13 +99,17 @@ subtitle: Here is what I have done so far...
 
 ### YOLOv5 Bird Strike Detection & Alert System  
 
-![YOLOv5 Bird Strike](/assets/kcci/yolov5_birdstrike.png)  
+![YOLOv5 Bird Strike](/assets/kcci/bird_block.png)  
 
-> YOLOv5 Bird Strike Detection & Alert System  
+> YOLOv5 Bird Strike Detection & Alert System Block Diagram 
 
-![YOLOv5 Process](/assets/kcci/yolov5_process.png)  
+![YOLOv5 Process](/assets/kcci/bird_server.png)  
 
-> Real-time Detection and Alert  
+> YOLOv5 Bird Strike Detection & Alert System Network Diagram
+
+![YOLOv5 Process](/assets/kcci/bird_work.png)  
+
+> YOLOv5 Bird Strike Detection & Alert System Demo
 
 * Project Name: YOLOv5 Bird Strike Detection & Alert System  
 
@@ -101,16 +117,20 @@ subtitle: Here is what I have done so far...
 
 * Detail: Built a Raspberry Pi + camera system running Python and YOLOv5 to detect birds in real time near airports. Implemented server-client communication to send alerts and display results. Verified detection accuracy with various video sources.  
 
+### Smart Clock  
 
-### Stopwatch and Timer on FPGA  
+![Stopwatch Timer](/assets/kcci/clock_block.png)  
 
-![Stopwatch Timer](/assets/kcci/stopwatch_timer.png)  
+> Smart Clock Block Diagram 
 
-> Stopwatch and Timer on FPGA  
+![Smart Watch FPGA](/assets/kcci/clock_sensor.png)  
 
-![Smart Watch FPGA](/assets/kcci/smartwatch_fpga.png)  
+> Sensor DHT11 FSM 
 
-> Smart Watch & Sensor Integration  
+![Smart Watch FPGA](/assets/kcci/clock_contect.png)  
+
+> Smart Clock Connection 
+
 
 * Project Name: Stopwatch and Timer on FPGA  
 
@@ -349,6 +369,7 @@ Detail: Outputs signals through a monitor and a speaker from an Arduino Uno or a
 * Detail: Bluetooth modules that are installed in everyday items or facilities such as phones, hospitals or even traffiic lights can communicate with the challenged, especially through the cane. The user first makes a interaction (ex. taps the button 2 times) with the cane. The corresponding reponse from the challenged will be sent to the current connected device (ex. traffic light). The device will then respond with an answer sent back to the cane. The respond then will be read in voice, giving a possibly current location, direction or other cases which correspond to the users demand.
 
 ---
+
 
 
 
