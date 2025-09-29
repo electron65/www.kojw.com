@@ -10,20 +10,20 @@ subtitle: Here is what I have done so far...
 * [Synopsys IC Compiler – Physical Design (Place & Route), 2025.10.01 - 2025.10.28, Physical Design, 대한상공회의소 서울기술교육센터]()
 
 **Completed Projects** ["Click On the Links for presentation files"]()
-* [FPGA Based Real-Time Image Processing Photo Booth, 2025.09.08 - 2025.09.30, Final Project, 대한상공회의소 서울기술교육센터]()  
-* [RV32I 기반 RISC-V FPGA MCU 및 APB 버스 설계 검증, 2025.08.06 - 2025.09.05, SoC System on a Chip , 대한상공회의소 서울기술교육센터]()  
-* [512 – Point radix FFT 설계 및 검증, 2025.07.15 - 2025.08.05, ASIC Front End Design, 대한상공회의소 서울기술교육센터]()  
-* [YOLOv5 기반 공항 조류(Bird Strike) 탐지·경보 시스템, 2025.06.23 - 2025.07.11, AI and Algorithm, 대한상공회의소 서울기술교육센터]()
-* [Stopwatch and Timer, 2025.05 - 2025.06, System Semiconductor Design, 대한상공회의소 서울기술교육센터]()
-* [DOOM : C Slayer, 2025.03 - 2025.05, ARM System Programming, 대한상공회의소 서울기술교육센터]()
-* [Fast Fourier Transform (FFT) Implementation with Software and Hardware, 2023.09 - 2024.06, Capstone Project, KwangWoon University]()
+* [FPGA Based Real-Time Image Processing Photo Booth, 2025.09.08 - 2025.09.30, Final Project, 대한상공회의소 서울기술교육센터](/assets/kcci/semi.pdf)  
+* [RV32I 기반 RISC-V FPGA MCU 및 APB 버스 설계 검증, 2025.08.06 - 2025.09.05, SoC System on a Chip , 대한상공회의소 서울기술교육센터](/assets/kcci/risc.pdf)  
+* [512 – Point radix FFT 설계 및 검증, 2025.07.15 - 2025.08.05, ASIC Front End Design, 대한상공회의소 서울기술교육센터](/assets/kcci/fft_core.pdf)  
+* [YOLOv5 기반 공항 조류(Bird Strike) 탐지·경보 시스템, 2025.06.23 - 2025.07.11, AI and Algorithm, 대한상공회의소 서울기술교육센터](/assets/kcci/bird.pdf)
+* [Stopwatch and Timer, 2025.05 - 2025.06, System Semiconductor Design, 대한상공회의소 서울기술교육센터](/assets/kcci/clock.pdf)
+* [DOOM : C Slayer, 2025.03 - 2025.05, ARM System Programming, 대한상공회의소 서울기술교육센터](/assets/kcci/c_game.pdf)
+* [Fast Fourier Transform (FFT) Implementation with Software and Hardware, 2023.09 - 2024.06, Capstone Project, KwangWoon University](/assets/kcci/caps.pdf)
 * [UART Transmitter and Reciever IP Development, 2023.09 - 2023.12, 광운튜터링, KwangWoon University]()
-* [Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors, 2023.09 - 2023.12, 전자회로실험2 Term Project, KwangWoon University]()
-* [Analog Computer, 2022.03 - 2022.06, 전자회로실험1 Term Project, KwangWoon University]()
-* [Development of a Simple Graphics Card and Sound Card, using DE1 - SoC FPGA Board, 2019.09 - 2019.12, 기초전자실험 Term Project, KwangWoon University]()
+* [Understanding Data Conversion by implementing Delta Sigma and Flash Analog to Digital Convertors, 2023.09 - 2023.12, 전자회로실험2 Term Project, KwangWoon University](/assets/kcci/adc.pdf)
+* [Analog Computer, 2022.03 - 2022.06, 전자회로실험1 Term Project, KwangWoon University](/assets/kcci/com.pdf)
+* [Development of a Simple Graphics Card and Sound Card, using DE1 - SoC FPGA Board, 2019.09 - 2019.12, 기초전자실험 Term Project, KwangWoon University](/assets/kcci/graph.pdf)
 * [Development of a Calculator using C++ and MFC, 2019.03 - 2019.06, 소프트웨어설계 Term Project, KwangWoon University]()
-* [LASER Communication, 2019.03 - 2019.06, 기초전자실험 Term Project, KwangWoon University]()
-* [Handicapped and IoT (Canes for the Challenged), 2018.10 - 2018.12, 공학설계과제, KwangWoon University](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=kwceie&logNo=221409352534)
+* [LASER Communication, 2019.03 - 2019.06, 기초전자실험 Term Project, KwangWoon University](/assets/kcci/laser.pdf)
+* [Handicapped and IoT (Canes for the Challenged), 2018.10 - 2018.12, 공학설계과제, KwangWoon University](/assets/kcci/cane.pdf)
 
 ---
 ### Contest
@@ -370,6 +370,7 @@ Detail: Outputs signals through a monitor and a speaker from an Arduino Uno or a
 
 ---
 ["Top"]()
+
 
 
 
