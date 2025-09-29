@@ -7,7 +7,7 @@ cover-img: "/assets/images/about.jpg"
 
 ### electron65
 
-<img src="/assets/other_image/kojw.jpg" alt="kojw! Hello!" width="400" height="700">
+<img src="/assets/other_image/kojw.jpg" alt="kojw! Hello!" width="600" height="700">
 
 ### electron65! Hello!
 
