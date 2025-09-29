@@ -9,7 +9,7 @@ subtitle: Here is what I have done so far...
 **Ongoing Projects**
 * [Synopsys IC Compiler – Physical Design (Place & Route), 2025.10.01 - 2025.10.28, Physical Design, 대한상공회의소 서울기술교육센터]()
 
-**Completed Projects** ["Click On the Links for presentation files"]
+**Completed Projects** ["Click On the Links for presentation files"]()
 * [FPGA Based Real-Time Image Processing Photo Booth, 2025.09.08 - 2025.09.30, Final Project, 대한상공회의소 서울기술교육센터]()  
 * [RV32I 기반 RISC-V FPGA MCU 및 APB 버스 설계 검증, 2025.08.06 - 2025.09.05, SoC System on a Chip , 대한상공회의소 서울기술교육센터]()  
 * [512 – Point radix FFT 설계 및 검증, 2025.07.15 - 2025.08.05, ASIC Front End Design, 대한상공회의소 서울기술교육센터]()  
@@ -349,6 +349,7 @@ Detail: Outputs signals through a monitor and a speaker from an Arduino Uno or a
 * Detail: Bluetooth modules that are installed in everyday items or facilities such as phones, hospitals or even traffiic lights can communicate with the challenged, especially through the cane. The user first makes a interaction (ex. taps the button 2 times) with the cane. The corresponding reponse from the challenged will be sent to the current connected device (ex. traffic light). The device will then respond with an answer sent back to the cane. The respond then will be read in voice, giving a possibly current location, direction or other cases which correspond to the users demand.
 
 ---
+
 
 
 
